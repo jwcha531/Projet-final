@@ -1,2 +1,2 @@
-# Projet final sur M2 statistiques
+# Proposition de projet final sur M2 statistiques
 
